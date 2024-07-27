@@ -1,6 +1,11 @@
-## Hi there 👋
+### About Me:
 
 I'm Mateo from Colombia, a Systems Engineering student and full-stack developer. I enjoy working with React, React Native, Node.js, and databases. I am also interested in data science and AI technologies.
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MateoMor&show_icons=true&theme=github_dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMor&size_weight=0.0005&count_weight=0.3&layout=compact&theme=github_dark">
+</p>
 
 ## Languages and Tools 
 <div>
@@ -36,7 +41,4 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateoMor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateoMor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="170" alt="languages graph"  />
-</div>
+
