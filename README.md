@@ -7,6 +7,8 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMor&size_weight=0.0005&count_weight=0.3&layout=compact&theme=github_dark">
 </p>
 
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateoMor)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ---
 
 ## Languages and Tools 
