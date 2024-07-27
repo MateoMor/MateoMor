@@ -44,6 +44,13 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
 |:-----:|:----:|:-------:|:-----:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="55" height="55"/> |
 
+### I am Learning
+
+| PyTorch |
+|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> |
+
+
 </div>
 
 ---
