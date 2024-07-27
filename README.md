@@ -47,10 +47,7 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=MateoMor&theme=github_dark&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=MateoMor&theme=blux&background=0D1117&border_radius=5&card_width=800">
 </p>
-
-
----
 
 
