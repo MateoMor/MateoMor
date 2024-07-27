@@ -7,6 +7,8 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMor&size_weight=0.0005&count_weight=0.3&layout=compact&theme=github_dark">
 </p>
 
+---
+
 ## Languages and Tools 
 <div>
 
@@ -40,5 +42,15 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="55" height="55"/> |
 
 </div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=MateoMor&theme=github_dark&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
 
 
