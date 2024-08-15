@@ -5,8 +5,8 @@ I'm Mateo from Colombia, a Systems Engineering student and full-stack developer.
 ## [My portfolio](https://portfolio-mateomors-projects.vercel.app/)
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MateoMor&show_icons=true&theme=transparent">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMor&size_weight=0.0005&count_weight=0.3&layout=compact&theme=transparent">
+  <img width="480" height="200" src="https://github-readme-stats.vercel.app/api?username=MateoMor&show_icons=true&theme=transparent">
+  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMor&size_weight=0.0005&count_weight=0.3&layout=compact&theme=transparent">
 </p>
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateoMor)](https://github.com/anuraghazra/github-readme-stats) -->
