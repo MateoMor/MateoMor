@@ -114,15 +114,19 @@
 
 ###
 
-<img align="right" height="160" src="https://media.tenor.com/oZGDs3Y2LJgAAAAM/smart-nerd.gif"  />
+<p align="left">I am also CS student in the Technological University of Pereira</p>
 
 ###
 
-<p align="left">I am studyng CS in the Technological University of Pereira<br><br>I use Arch btw</p>
+<p align="center">And i use Arch btw</p>
 
 ###
-<br clear="both">
-<br clear="both">
+
+<div align="center">
+  <img height="160" src="https://media.tenor.com/oZGDs3Y2LJgAAAAM/smart-nerd.gif"  />
+</div>
+
+###
 
   
 <div align="center">
