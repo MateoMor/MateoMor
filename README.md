@@ -129,8 +129,8 @@
 ###
 
   
-<div align="center">
+<!--<div align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=MateoMor&theme=transparent&border_radius=5&card_width=800">
-</div>
+</div>-->
 
 
