@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Things I Know (Stack Overflow Certified 🪪)</h3>
+<h3 align="left">Things I Know</h3>
 
 ###
 
